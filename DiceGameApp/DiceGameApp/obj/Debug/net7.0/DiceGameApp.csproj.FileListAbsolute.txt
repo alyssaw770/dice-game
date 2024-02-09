@@ -1,0 +1,15 @@
+/Users/alyssawilliams/C#_Projects/dice-game/DiceGameApp/DiceGameApp/bin/Debug/net7.0/DiceGameApp
+/Users/alyssawilliams/C#_Projects/dice-game/DiceGameApp/DiceGameApp/bin/Debug/net7.0/DiceGameApp.deps.json
+/Users/alyssawilliams/C#_Projects/dice-game/DiceGameApp/DiceGameApp/bin/Debug/net7.0/DiceGameApp.runtimeconfig.json
+/Users/alyssawilliams/C#_Projects/dice-game/DiceGameApp/DiceGameApp/bin/Debug/net7.0/DiceGameApp.dll
+/Users/alyssawilliams/C#_Projects/dice-game/DiceGameApp/DiceGameApp/bin/Debug/net7.0/DiceGameApp.pdb
+/Users/alyssawilliams/C#_Projects/dice-game/DiceGameApp/DiceGameApp/obj/Debug/net7.0/DiceGameApp.csproj.AssemblyReference.cache
+/Users/alyssawilliams/C#_Projects/dice-game/DiceGameApp/DiceGameApp/obj/Debug/net7.0/DiceGameApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alyssawilliams/C#_Projects/dice-game/DiceGameApp/DiceGameApp/obj/Debug/net7.0/DiceGameApp.AssemblyInfoInputs.cache
+/Users/alyssawilliams/C#_Projects/dice-game/DiceGameApp/DiceGameApp/obj/Debug/net7.0/DiceGameApp.AssemblyInfo.cs
+/Users/alyssawilliams/C#_Projects/dice-game/DiceGameApp/DiceGameApp/obj/Debug/net7.0/DiceGameApp.csproj.CoreCompileInputs.cache
+/Users/alyssawilliams/C#_Projects/dice-game/DiceGameApp/DiceGameApp/obj/Debug/net7.0/DiceGameApp.dll
+/Users/alyssawilliams/C#_Projects/dice-game/DiceGameApp/DiceGameApp/obj/Debug/net7.0/refint/DiceGameApp.dll
+/Users/alyssawilliams/C#_Projects/dice-game/DiceGameApp/DiceGameApp/obj/Debug/net7.0/DiceGameApp.pdb
+/Users/alyssawilliams/C#_Projects/dice-game/DiceGameApp/DiceGameApp/obj/Debug/net7.0/DiceGameApp.genruntimeconfig.cache
+/Users/alyssawilliams/C#_Projects/dice-game/DiceGameApp/DiceGameApp/obj/Debug/net7.0/ref/DiceGameApp.dll
